@@ -2,7 +2,7 @@
     "name": "thexaib/genericarray",
     "description": "A simple class to hold data as key value, with nested structure.for json.",
     "type": "library",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "thexaib",
