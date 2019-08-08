@@ -1,6 +1,6 @@
 <?php
 
-namespace thexaib\model;
+namespace thexaib;
 
 
 class GenericArray implements \ArrayAccess, \Iterator
