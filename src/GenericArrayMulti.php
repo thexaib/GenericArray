@@ -1,6 +1,6 @@
 <?php
 
-namespace thexaib;
+namespace thexaib\model;
 
 
 class GenericArrayMulti extends GenericArray
